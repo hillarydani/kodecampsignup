@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2 {
+  color: blue;
+  margin: 2%;
+}
+textarea {
+  width: 365px;
+}
+label {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.simage {
+  height: 400px;
+}
+
+.roi {
+  font-size: smaller;
+}
+
+.top-logo {
+  margin-left: 90%;
+  width: 50px;
+  height: auto;
+}
+.main {
+  display: flex;
+  /* align-items: center; */
+  gap: 5%;
+  margin-left: 20vw;
+  max-width: 50%;
+  background-color: #f1f1f1;
+}
+.fname {
+  display: flex;
+  flex-direction: column;
+}
+.lines-form {
+  display: flex;
+  gap: 5%;
+  margin: 2%;
+}
+.tuay {
+  margin-bottom: 10px;
+}
+
+.btn {
+  background-color: blue;
+  padding: 10px;
+  color: #fff;
+  border-radius: 10px;
+  margin-left: 67%;
+}
